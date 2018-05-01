@@ -4,6 +4,9 @@ This demo uses the experimental Web Speech API, which is currently only [support
 
 The demo is heavily based on [Tomomi Imura's github project](https://github.com/girliemac/web-speech-ai)
 
+### Please feel free to suggest improvements
+
+
 This is how this web app works:
 
 1. Using the Web Speech API’s `SpeechRecognition` interface to listen your voice from a microphone
