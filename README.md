@@ -27,7 +27,7 @@ MS_COGNITIVE_SUBSCRIPTION_KEY = [Bing search API key](https://docs.microsoft.com
 
 The first one is a Dialogflow API key (Please get one by sign up with [Dialogflow](https://dialogflow.com), and the second one is a Microsoft's image search service key, which is used to find an image that was requested by the user.
 
-Or use this Heroku button to deploy to Heroku server. You just need to fill out the env vars with the API key and a session ID. No need to create an `.env` file.
+Or use this Heroku button to deploy to Heroku server. You just need to fill out the env vars with the API key and a subscripition key.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tefrati/web-speech-ai.git)
 
