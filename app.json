@@ -1,0 +1,21 @@
+{
+    "name": "Web Speech AI Chatbot Demo",
+    "description": "Simple AI Chat Bot Demo with Web Speech API",
+    "repository": "https://github.com/girliemac/web-speech-ai",
+    "keywords": ["ai", "dialogflow", "bot", "w3c"],
+    "env": {
+      "APIAI_TOKEN": {
+        "description": "Dialogflow Client access token",
+        "value": ""
+      },
+      "MS_COGNITIVE_IMAGE_SEARCH_DOMAIN": {
+        "description": "Micorosoft image search API URL",
+        "value": "https://api.cognitive.microsoft.com/bing/v7.0/images/search"
+      },
+      "MS_COGNITIVE_SUBSCRIPTION_KEY": {
+        "description": "Micorosoft cognitive services API key",
+        "value": ""
+      }
+    },
+    "image": "heroku/nodejs"
+  }
