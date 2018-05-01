@@ -4,10 +4,10 @@
   "description": "Simple AI Chat Bot Demo with Web Speech API",
   "main": "index.js",
   "scripts": {
-    "start": "nf start",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Tomomi Imura",
+  "author": "Zach Efrati <tzahi.efrati@gmail.com> (https://linkedin.com/in/efrati)s",
   "license": "MIT",
   "dependencies": {
     "apiai": "^4.0.2",
